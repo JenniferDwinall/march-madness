@@ -1,6 +1,6 @@
-import picks from '../static/files/picks.js'
-import scores from '../static/files/scores.js'
-import teams from '../static/files/teams.js'
+import picks from './data/picks.js'
+import scores from './data/scores.js'
+import teams from './data/teams.js'
 
 /*
  * Returns game by id.
