@@ -9,7 +9,7 @@ Picks, scores and teams are saved as data input.
 
 /src/data/teams.js - The teams and their seeding
 
-Run the test suite to fill out the bracket and test the required methods.
+Run the test suite to view implementation. Tests will fill out the bracket and test the required methods.
 
 ## Getting Started
 NVM was used to manage node and yarn versions.  You will need to install the versions of yarn and node set in the package.json file, engines section.
