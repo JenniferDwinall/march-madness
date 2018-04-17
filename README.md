@@ -29,3 +29,7 @@ To run the test suite:
 
     yarn test
 
+To run code linting:
+
+    yarn lint
+    yarn lint-fix
